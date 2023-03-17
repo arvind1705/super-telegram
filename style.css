@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:600");
 :root {
-  --heart-size: 100px;
+  --heart-size: 200px;
   --heart-bg-color: crimson;
   --heart-text-color: white;
   --heart-shadow-color: pink;
@@ -57,7 +57,7 @@ body {
   bottom: 0;
   left: 0;
   margin: auto;
-  font-size: 30px;
+  font-size: 60px;
   text-align: center;
   text-shadow: rgba(0, 0, 0, 0.1) 2px 2px 0;
   text-transform: uppercase;
