@@ -4,19 +4,12 @@ class Heart {
     const text = heart.querySelector('.heart-text');
     const sayings = [
     'ur cute',
-    'marry me',
     'kiss me',
     'miss you',
-    'get real',
     'wink wink',
-    'why not?',
-    'say yes',
-    'get out',
-    'party time',
     'oh baby',
-    'dare ya',
     'sweet heart',
-    'hog tie'];
+    'i love you'];
 
 
     heart.addEventListener('click', () => {
