@@ -4,7 +4,6 @@ class Heart {
     const text = heart.querySelector('.heart-text');
     const sayings = [
     'ur cute',
-    'kiss me',
     'miss you',
     'wink wink',
     'oh baby',
